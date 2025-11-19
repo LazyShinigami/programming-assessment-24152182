@@ -17,7 +17,7 @@ Certifications,float64,0,0.3
 Freelancing Experience,float64,0,0.15
 Geographic Mobility,float64,0,0.31
 Professional Networks,float64,0,5.51
-Career Change Events,float64,0,1
+Career Change Events,float64,0,1.0
 Technology Adoption,float64,0,5.49
 Likely to Change Occupation,float64,0,0.57
-Total Records,4940,,
+Total Records,4940,0,

@@ -17,7 +17,7 @@ Certifications,object,5,"[0, 1, 'A']"
 Freelancing Experience,float64,6,0.15
 Geographic Mobility,object,4,"[0, 1, 'A']"
 Professional Networks,float64,6,5.51
-Career Change Events,float64,2,1
+Career Change Events,float64,2,1.0
 Technology Adoption,float64,4,5.48
 Likely to Change Occupation,float64,1,0.57
 Total Records,5000,89,
